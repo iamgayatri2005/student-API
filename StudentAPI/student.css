@@ -27,7 +27,7 @@
     margin: 20px auto;
     padding: 20px;
     background: #ffc2d1;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
@@ -108,7 +108,7 @@
   
   .student-actions {
     display: flex;
-    gap: 10px;
+    gap: 12px;
   }
   
   .student-actions button {
